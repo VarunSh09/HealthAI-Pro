@@ -120,11 +120,18 @@ HealthAI-Pro/
 <img width="1363" height="680" alt="Login Page" src="https://github.com/user-attachments/assets/c6923470-97d3-4429-bfd0-abc98b619e00" />
 
 ### Dashboard
+<img width="1229" height="607" alt="Diseases Dashboard" src="https://github.com/user-attachments/assets/8be541c1-4699-4fe2-a3a4-1d5148a62bb8" />
+<img width="1215" height="378" alt="Diseases Dashboard 4" src="https://github.com/user-attachments/assets/676ca10e-8c04-47ea-8063-ea44188652eb" />
+<img width="1221" height="597" alt="Diseases Dashboard 3" src="https://github.com/user-attachments/assets/728904ae-7e4f-4b49-a508-32281d211e17" />
+
+
 <img width="1137" height="446" alt="Diseases Dashboard 2 (1)" src="https://github.com/user-attachments/assets/30a5d3c8-0300-4756-bb71-04fe7d14b38b" />
 
 ### Disease Predictor
+<img width="1364" height="674" alt="Predictor Page" src="https://github.com/user-attachments/assets/cf761cac-0808-42e5-b4e3-0c5800ed46a6" />
+
 <img width="1361" height="678" alt="Health Prediction" src="https://github.com/user-attachments/assets/11375440-4256-445a-93cb-37176ef083e8" />
-<img width="1361" height="678" alt="Health Prediction" src="https://github.com/user-attachments/assets/b14a2216-3c2c-4554-85d9-6a2fbec8bb08" />
+<img width="1365" height="681" alt="AI Health Summary" src="https://github.com/user-attachments/assets/ab301235-fff9-44f4-9482-bf28845666d1" />
 
 ### AI Chatbot
 <img width="1365" height="595" alt="AI Chatbot" src="https://github.com/user-attachments/assets/b2144ac9-1b66-457c-b920-1abb2fcacc5c" />
