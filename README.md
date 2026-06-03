@@ -117,14 +117,20 @@ HealthAI-Pro/
 
 
 ### Login Page
+<img width="1363" height="680" alt="Login Page" src="https://github.com/user-attachments/assets/c6923470-97d3-4429-bfd0-abc98b619e00" />
 
 ### Dashboard
+<img width="1137" height="446" alt="Diseases Dashboard 2 (1)" src="https://github.com/user-attachments/assets/30a5d3c8-0300-4756-bb71-04fe7d14b38b" />
 
 ### Disease Predictor
+<img width="1361" height="678" alt="Health Prediction" src="https://github.com/user-attachments/assets/11375440-4256-445a-93cb-37176ef083e8" />
+<img width="1361" height="678" alt="Health Prediction" src="https://github.com/user-attachments/assets/b14a2216-3c2c-4554-85d9-6a2fbec8bb08" />
 
 ### AI Chatbot
+<img width="1365" height="595" alt="AI Chatbot" src="https://github.com/user-attachments/assets/b2144ac9-1b66-457c-b920-1abb2fcacc5c" />
 
 ### PDF Report
+<img width="409" height="535" alt="PDF Report" src="https://github.com/user-attachments/assets/d3208f2c-a91e-411c-8b92-49419e4e56f9" />
 
 ---
 
