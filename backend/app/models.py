@@ -15,4 +15,3 @@ class User(db.Model):
         return f"User {self.username}"
 
 
-        #mailAppPass-->cxgn hvvw qnhx pcyu
