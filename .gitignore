@@ -1,0 +1,37 @@
+
+__pycache__/
+*.pyc
+*.pyo
+
+venv/
+env/
+
+.env
+
+# Streamlit Secrets
+.streamlit/secrets.toml
+
+# Database
+*.db
+*.sqlite3
+
+# Logs
+*.log
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Uploads
+uploads/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Temporary
+temp/
+tmp/
